@@ -2,6 +2,9 @@
 
 A knowledge base app that play sound
 
+## Screen shot
+<img src="https://res.cloudinary.com/habprog/image/upload/v1597853499/knowledgebase_assets/soundPlayer.png" alt="Sound player screen shot" />
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
